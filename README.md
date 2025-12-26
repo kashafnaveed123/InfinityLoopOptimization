@@ -123,7 +123,8 @@ Iteration ∞:    Never stops! 🚀
 
 ## 🎬 Live Demo
 
-//======demo link========//
+https://infinity-loop-optimization.vercel.app/
+
 
 Or run locally:
 ```bash
